@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/ryanjcohen/rc0808/
+    type: markup
+
+folders:
+  /products/: /products/default
